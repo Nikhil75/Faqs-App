@@ -1,0 +1,21 @@
+li {
+  list-style: none;
+}
+.plus {
+  cursor: pointer;
+  margin-right: 20px;
+  border-width: 0px;
+  background-color: transparent;
+}
+.making-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.answerText {
+  color: #9aa5b1;
+  margin-left: 10px;
+}
+.hr {
+  width: 98%;
+}
